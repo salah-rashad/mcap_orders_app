@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363698321473",
+    "project_id": "mcap-app",
+    "storage_bucket": "mcap-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363698321473:android:6a66d1725ca3f5e5e4eec0",
+        "android_client_info": {
+          "package_name": "com.mcap.orders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363698321473-9a0f6mtskkph2qch8l21vh2g7dqb04af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcap.orders_app",
+            "certificate_hash": "24c3a3fa831cbb3336ed3e322b28b73a53d16d54"
+          }
+        },
+        {
+          "client_id": "363698321473-iun4pgqbre9ifraru7mc05esi0befrpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmXGVmKn2kFiZF0LcnQIz381j96cCB63s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363698321473-iun4pgqbre9ifraru7mc05esi0befrpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
